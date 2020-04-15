@@ -4,6 +4,9 @@
 
 ## Mode d'emploi
 
+Pour télécharger les ressources de l'atelier il suffit de cliquer sur le bouton vert "Clone or Download", puis de sélectionner "Download ZIP".
+![-image comment télécharger-](comment-telecharger.png)
+
 
 ## License
 La typographie [CMRDD-Bold](https://gitlab.com/swrs/cmrdd) de Paul Bernhard est redistribuée grâce à sa licence SIL Open Font License v1.1 (OFL-1.1).
