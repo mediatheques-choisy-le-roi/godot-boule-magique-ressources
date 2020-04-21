@@ -6,6 +6,8 @@
 
 Pour télécharger les ressources de l'atelier il suffit de cliquer sur le bouton vert "Clone or Download", puis de sélectionner "Download ZIP".
 
+Une fois téléchargées, dézipper et importer dans Godot en faisant un glisser-déposer dans le l'onglet Système de fichiers.
+
 ![-image comment télécharger et utiliser-](comment-telecharger-et-utiliser.png)
 
 
